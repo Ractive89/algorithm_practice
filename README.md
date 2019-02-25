@@ -1,5 +1,5 @@
 # algorithm_practice
-<meta http-equiv="Content-Language" content="zh-cn">
+
 ### 日常练习算法
 
 希望志同道合的小伙伴一起练习哈哈
